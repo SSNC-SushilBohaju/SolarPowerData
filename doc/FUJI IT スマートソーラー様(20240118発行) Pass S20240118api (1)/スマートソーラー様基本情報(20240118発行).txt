@@ -1,0 +1,7 @@
+WebAPI基本情報
+
+発行日		：2024年1月18日
+メールアドレス	：nthoan@smartsolar.co.jp
+APIキー		：c8ecfb719e1da5e658d95c000cfdf3059fbeff5ba1497a249b444675aed45857
+HTTPヘッダー	：Authorization:X-ENERGY-API-KEY {APIキー}
+リクエストURL	：https://api.fitenergy-solar.com/api/{API名}

@@ -1,0 +1,12 @@
+リクエストサンプル
+
+＜例＞
+発電所ID：S001
+発電所名：道の駅木更津うまくたの里
+タグID　：1.6
+計測項目：発電電力量
+粒度　　：１日値
+取得期間：2023/12/1～12/31
+
+＜リクエスト＞
+https://api.fitenergy-solar.com/api/historical_data?plant_id=S001&type=day&start=20231201T000000&end=20231231T000000&tag_id=1.6
